@@ -1,2 +1,0 @@
-# seascripts
-seastar scripts
