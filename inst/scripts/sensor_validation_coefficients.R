@@ -1,3 +1,4 @@
+library(seastar)
 library(asyr)
 library(dplyr)
 library(ggplot2)
