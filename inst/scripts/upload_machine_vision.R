@@ -1,2 +1,1 @@
-library(seastar)
-shiny::runApp(system.file("details_upload",package="shinyStar"),launch.browser=TRUE)
+shiny::runApp(upload_machine_vision_app(),launch.browser=TRUE)
