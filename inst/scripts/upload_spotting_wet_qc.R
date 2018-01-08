@@ -1,1 +1,1 @@
-shiny::runApp(seascripts::upload_wetqc_app(),launch.browser=TRUE)
+shiny::runApp(seascripts::upload_spotting_wet_qc_app(),launch.browser=TRUE)
