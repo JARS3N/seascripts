@@ -1,2 +1,1 @@
-library(seastar)
-shiny::runApp(system.file("InstrumentQCOLuploadApp",package="shinyStar"),launch.browser=TRUE)
+shiny::runApp(seascripts::upload_inst_QC_outlier_app(),launch.browser=TRUE)
