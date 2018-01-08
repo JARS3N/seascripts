@@ -1,2 +1,1 @@
-library(seastar)
-shiny::runApp(system.file("upload_dryqc",package="shinyStar"),launch.browser=TRUE)
+shiny::runApp(upload_dryqc_app(),launch.browser=TRUE)
