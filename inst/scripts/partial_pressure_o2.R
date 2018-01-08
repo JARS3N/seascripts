@@ -1,2 +1,1 @@
-library(seastar)
-shiny::runApp(system.file("partial_pressure",package="shinyStar"),launch.browser=TRUE)
+shiny::runApp(seascripts::partial_pressure_app(),launch.browser=TRUE)
