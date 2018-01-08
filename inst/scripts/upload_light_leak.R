@@ -1,2 +1,1 @@
-library(seastar)
-shiny::runApp(system.file("UPLOADLLQC",package="shinyStar"),launch.browser=TRUE)
+shiny::runApp(seascripts::upload_light_leak_app(),launch.browser=TRUE)
