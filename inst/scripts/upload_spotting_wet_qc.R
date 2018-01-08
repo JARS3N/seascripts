@@ -1,2 +1,1 @@
-library(seastar)
-shiny::runApp(system.file("ccUpload",package="shinyStar"),launch.browser=TRUE)
+shiny::runApp(upload_wetqc_app(),launch.browser=TRUE)
