@@ -1,2 +1,1 @@
-library(seastar)
-shiny::runApp(system.file("outliers",package="shinyStar"),launch.browser=TRUE)
+shiny::runApp(seascripts::outliers_app(),launch.browser=TRUE)
