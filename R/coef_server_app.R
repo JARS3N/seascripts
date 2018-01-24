@@ -1,4 +1,4 @@
-coef_app_server<-function(){
+coef_server_app<-function(){
 
 require(seastar)
 require(asyr)
