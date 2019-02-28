@@ -1,7 +1,7 @@
 Package: seascripts
 Type: Package
 Title: seascripts
-Version: 0.3.0
+Version: 0.3.1
 Author: J.Arsenault
 Date: 2017-1003
 Maintainer: Who to complain to <JARS3N@GMAIL.COM>
@@ -10,7 +10,8 @@ URL: https://github.com/JARS3N/seascripts
 Imports:
       shiny,
       Cairo,
-      gridExtra
+      gridExtra,
+      tinytex
 License: none
 Encoding: UTF-8
 LazyData: true
