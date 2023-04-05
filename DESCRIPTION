@@ -11,7 +11,9 @@ Imports:
       shiny,
       Cairo,
       gridExtra,
-      tinytex
+      tinytex,
+      pKa,
+      foam
 Remotes: 
   Github::Jars3n/pKa,
   Github::Jars3n/foam
