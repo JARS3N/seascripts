@@ -12,6 +12,9 @@ Imports:
       Cairo,
       gridExtra,
       tinytex
+Remotes: 
+  Github::Jars3n/pKa,
+  Github::Jars3n/foam,
 License: none
 Encoding: UTF-8
 LazyData: true
