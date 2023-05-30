@@ -1,2 +1,2 @@
-#shiny::runApp(seascripts::sensor_validation_coefficients_app(),launch.browser=TRUE)      
-barval::app()
+shiny::runApp(barval::ui_app(),barval::server_app(),launch.browser=TRUE)      
+
