@@ -13,10 +13,12 @@ Imports:
       gridExtra,
       tinytex,
       pKa,
-      foam
+      foam,
+      wetqc
 Remotes: 
   Github::Jars3n/pKa,
-  Github::Jars3n/foam
+  Github::Jars3n/foam,
+  Github::Jars3n/wetqc
   
 License: none
 Encoding: UTF-8
