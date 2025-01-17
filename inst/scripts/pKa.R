@@ -1,1 +1,1 @@
-shiny::runApp(pKa::app(),launch.browser=TRUE)
+shiny::runApp(pKa::spock(),launch.browser=TRUE)
