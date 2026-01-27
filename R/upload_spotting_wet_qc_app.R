@@ -6,7 +6,6 @@
 #)
 #}
 upload_spotting_wet_qc_app <- function() {
-  library(seastar)
   library(wetqc)
   shiny::shinyApp(wetqc::ui(), wetqc::server())
 }
