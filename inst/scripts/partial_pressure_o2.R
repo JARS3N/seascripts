@@ -1,1 +1,1 @@
-shiny::runApp(seascripts::partial_pressure_app(),launch.browser=TRUE)
+shiny::runApp(pp::app(),launch.browser=TRUE)
